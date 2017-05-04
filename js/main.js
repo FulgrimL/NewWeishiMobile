@@ -44,7 +44,6 @@ window.onload=function(){
 
        $(".v-share-icon").next().find("li").eq(0).animate({
           left:'6.6rem'
-
        });
        $(".v-share-icon").next().find("li").eq(1).animate({
       	  left:'6.6rem'
